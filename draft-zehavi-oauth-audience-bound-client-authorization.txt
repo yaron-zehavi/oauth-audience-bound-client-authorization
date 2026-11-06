@@ -48,10 +48,11 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at https://yaron-
-   zehavi.github.io/oauth-audience-bound-token-exchange/draft-zehavi-
-   oauth-audience-bound-client-authorization.html.  Status information
-   for this document may be found at https://datatracker.ietf.org/doc/
-   draft-zehavi-oauth-audience-bound-client-authorization/.
+   zehavi.github.io/oauth-audience-bound-client-authorization/draft-
+   zehavi-oauth-audience-bound-client-authorization.html.  Status
+   information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-zehavi-oauth-audience-bound-
+   client-authorization/.
 
    Discussion of this document takes place on the Web Authorization
    Protocol Working Group mailing list (mailto:oauth@ietf.org), which is
@@ -59,7 +60,8 @@ About This Document
    Subscribe at https://www.ietf.org/mailman/listinfo/oauth/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/yaron-zehavi/oauth-audience-bound-token-exchange.
+   https://github.com/yaron-zehavi/oauth-audience-bound-client-
+   authorization.
 
 Status of This Memo
 
@@ -1286,30 +1288,6 @@ A.3.  Example: Token Exchange Using private_key_jwt, jwks_uri, and
    rejects the request.
 
 Appendix B.  Document History
-
-   -01
-
-   *  Broadened scope from token exchange to any operation in which a
-      client acts on a token on behalf of the protected resource
-      identified by its audience.
-
-   *  Changed title to "OAuth 2.0 Audience-Bound Client Authorization".
-
-   *  Added application of the model to OAuth 2.0 Token Introspection.
-
-   *  Added guidance for applying the model to other operations.
-
-   *  Renamed the token_exchange_clients protected-resource metadata
-      parameter to resource_clients.
-
-   *  Restricted the jwks_uri mechanism to private_key_jwt client
-      authentication, applicable at any authorization server endpoint.
-
-   *  Aligned the strength of the consistency requirement between
-      jwks_uri and resource_clients mechanisms.
-
-   *  Added security considerations for differing operation risk and
-      protected resource key compromise.
 
    -00
 
