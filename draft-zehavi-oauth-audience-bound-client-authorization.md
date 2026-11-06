@@ -664,17 +664,6 @@ The authorization server also verifies that the client identifier in the client 
 
 # Document History
 
--01
-
-* Broadened scope from token exchange to any operation in which a client acts on a token on behalf of the protected resource identified by its audience.
-* Changed title to "OAuth 2.0 Audience-Bound Client Authorization".
-* Added application of the model to OAuth 2.0 Token Introspection.
-* Added guidance for applying the model to other operations.
-* Renamed the `token_exchange_clients` protected-resource metadata parameter to `resource_clients`.
-* Restricted the `jwks_uri` mechanism to `private_key_jwt` client authentication, applicable at any authorization server endpoint.
-* Aligned the strength of the consistency requirement between `jwks_uri` and `resource_clients` mechanisms.
-* Added security considerations for differing operation risk and protected resource key compromise.
-
 -00
 
 * Initial version.
