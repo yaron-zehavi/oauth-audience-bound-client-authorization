@@ -22,8 +22,8 @@ venue:
   type: "Working Group"
   mail: "oauth@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/oauth/"
-  github: "yaron-zehavi/oauth-audience-bound-token-exchange"
-  latest: "https://yaron-zehavi.github.io/oauth-audience-bound-token-exchange/draft-zehavi-oauth-audience-bound-client-authorization.html"
+  github: "yaron-zehavi/oauth-audience-bound-client-authorization"
+  latest: "https://yaron-zehavi.github.io/oauth-audience-bound-client-authorization/draft-zehavi-oauth-audience-bound-client-authorization.html"
 
 author:
   -
