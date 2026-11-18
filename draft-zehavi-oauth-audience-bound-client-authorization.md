@@ -39,8 +39,6 @@ normative:
   RFC8693:
   RFC9728:
   I-D.ietf-oauth-client-id-metadata-document:
-    title: "OAuth Client ID Metadata Document"
-    target: https://datatracker.ietf.org/doc/draft-ietf-oauth-client-id-metadata-document/
 
 informative:
   OpenID.Core:
