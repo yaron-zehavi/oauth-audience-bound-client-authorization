@@ -3,7 +3,7 @@ title: "OAuth 2.0 Audience-Bound Client Authorization"
 abbrev: "Audience-Bound Client Authorization"
 category: std
 
-docname: draft-zehavi-oauth-audience-bound-client-authorization-latest
+docname: draft-zehavi-oauth-aud-bound-client-authz-latest
 submissiontype: IETF
 number:
 date:
