@@ -38,9 +38,9 @@ normative:
   RFC7662:
   RFC8693:
   RFC9728:
-  I-D.ietf-oauth-client-id-metadata-document:
 
 informative:
+  I-D.ietf-oauth-client-id-metadata-document:
   OpenID.Core:
     title: "OpenID Connect Core 1.0"
     target: https://openid.net/specs/openid-connect-core-1_0.html
