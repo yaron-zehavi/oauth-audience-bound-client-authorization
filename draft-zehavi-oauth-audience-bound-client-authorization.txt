@@ -1107,13 +1107,6 @@ Table of Contents
 
 16.1.  Normative References
 
-   [I-D.ietf-oauth-client-id-metadata-document]
-              Parecki, A. and E. Smith, "OAuth Client ID Metadata
-              Document", Work in Progress, Internet-Draft, draft-ietf-
-              oauth-client-id-metadata-document-03, 2 November 2026,
-              <https://datatracker.ietf.org/doc/html/draft-ietf-oauth-
-              client-id-metadata-document-03>.
-
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
               DOI 10.17487/RFC2119, March 1997,
@@ -1151,6 +1144,13 @@ Table of Contents
               <https://www.rfc-editor.org/rfc/rfc9728>.
 
 16.2.  Informative References
+
+   [I-D.ietf-oauth-client-id-metadata-document]
+              Parecki, A. and E. Smith, "OAuth Client ID Metadata
+              Document", Work in Progress, Internet-Draft, draft-ietf-
+              oauth-client-id-metadata-document-03, 2 November 2026,
+              <https://datatracker.ietf.org/doc/html/draft-ietf-oauth-
+              client-id-metadata-document-03>.
 
    [OpenID.Core]
               Sakimura, N., Bradley, J., Jones, M., Medeiros, B. de.,
