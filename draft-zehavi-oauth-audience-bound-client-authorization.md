@@ -32,8 +32,6 @@ author:
     email: yaron.zehavi@rbinternational.com
 
 normative:
-  RFC2119:
-  RFC8174:
   RFC6749:
   RFC7519:
   RFC7523:
